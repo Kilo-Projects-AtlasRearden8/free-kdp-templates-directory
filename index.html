@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Freebies Directory - Free KDP & Book Templates | Asdale Dynamics, LLC</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="header-inner">
+    <h1 class="site-title">Freebies Directory</h1>
+    <p class="site-tag">Free KDP &amp; book templates - interior layouts, covers, copyright pages, series bibles</p>
+    <p class="site-credit">By <a href="https://dylanasdale.github.io">Dylan Asdale</a> &bull; Credit: Asdale Dynamics, LLC</p>
+  </div>
+</header>
+
+<main class="container">
+  <section class="toolbar">
+    <label class="search-label" for="search">Search templates</label>
+    <input type="search" id="search" placeholder="Filter by title, category, platform, or steps..." autocomplete="off">
+    <div class="filter-chips" role="group" aria-label="Filter by category">
+      <button type="button" class="chip active" data-filter="all">All</button>
+      <button type="button" class="chip" data-filter="Interior layouts">Interior layouts</button>
+      <button type="button" class="chip" data-filter="Cover templates">Cover templates</button>
+      <button type="button" class="chip" data-filter="Copyright pages">Copyright pages</button>
+      <button type="button" class="chip" data-filter="Series bibles">Series bibles</button>
+    </div>
+    <p class="count" id="count">Loading&hellip;</p>
+  </section>
+
+  <section class="grid" id="grid">
+    <!-- Template cards injected here by assets/search.js -->
+  </section>
+
+  <section class="notice">
+    <p><strong>No affiliate links.</strong> Every listing links to the official platform or publisher page. Costs reflect the free tier or free download; check each official page for current terms.</p>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <p>&copy; 2026 Asdale Dynamics, LLC. Licensed under the MIT License.</p>
+</footer>
+
+<script src="assets/search.js"></script>
+</body>
+</html>

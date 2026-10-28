@@ -1,0 +1,215 @@
+{
+  "generated": "2026-10-28",
+  "credit": "Asdale Dynamics, LLC",
+  "note": "Free KDP and book template directory. All links point to official publisher/platform pages. No affiliate links.",
+  "templates": [
+    {
+      "id": "kdp-interior-templates",
+      "title": "KDP Interior Templates (Print & Paperback)",
+      "category": "Interior layouts",
+      "cost": "Free",
+      "platform": "Amazon KDP",
+      "steps": [
+        "Go to the KDP Help interior templates page and pick your trim size (e.g. 6 x 9 in).",
+        "Download the matching Word (.docx) template file.",
+        "Paste your manuscript into the template, applying the built-in heading styles.",
+        "Export the finished file as a print-ready PDF.",
+        "Upload the PDF interior to your KDP paperback or hardcover title."
+      ],
+      "official_link": "https://kdp.amazon.com/en/help/topic/G202061670",
+      "notes": "Official Amazon KDP templates with correct margins, gutter, and page size for print books."
+    },
+    {
+      "title": "KDP Cover Templates (Cover Calculator)",
+      "category": "Cover templates",
+      "cost": "Free",
+      "platform": "Amazon KDP",
+      "steps": [
+        "Open the KDP Cover Calculator and enter your trim size, page count, and paper type.",
+        "Click Calculate to get the exact cover spread dimensions and spine width.",
+        "Download the blank cover template as a PNG or PDF.",
+        "Open the template in your design tool and place front cover, spine, and back cover art within the safe zones.",
+        "Export the flattened cover as a print-ready PDF and upload it to KDP."
+      ],
+      "official_link": "https://kdp.amazon.com/en/help/topic/G202013750",
+      "id": "kdp-cover-templates",
+      "notes": "Official Amazon KDP cover calculator and templates; dimensions adjust automatically to your book's specs."
+    },
+    {
+      "title": "Kindle Create",
+      "category": "Interior layouts",
+      "cost": "Free",
+      "platform": "Amazon Kindle Create (desktop app)",
+      "steps": [
+        "Download and install Kindle Create for Windows or macOS.",
+        "Create a new project and import your Word (.docx) or plain-text manuscript.",
+        "Apply chapter and section formatting using the built-in themes.",
+        "Preview the ebook on Kindle devices and tablets in the built-in previewer.",
+        "Export a KPF file and upload it to your KDP ebook title."
+      ],
+      "official_link": "https://kdp.amazon.com/en/help/topic/G202013730",
+      "id": "kindle-create",
+      "notes": "Free Amazon desktop app for formatting Kindle ebooks with print-replica and reflowable options."
+    },
+    {
+      "title": "Reedsy Book Editor - Free Interior Templates",
+      "category": "Interior layouts",
+      "cost": "Free",
+      "platform": "Reedsy (web)",
+      "steps": [
+        "Sign up for a free Reedsy account and open the Book Editor.",
+        "Create a new book and choose a trim size and theme.",
+        "Write or paste your chapters; the editor applies professional typesetting automatically.",
+        "Export a print-ready PDF for KDP, Lulu, or IngramSpark, or an EPUB for ebook stores.",
+        "Download and upload the exported files to your publishing platform."
+      ],
+      "official_link": "https://reedsy.com/book-editing",
+      "id": "reedsy-book-editor",
+      "notes": "Free online book editor with professional interior layout themes and PDF/EPUB export."
+    },
+    {
+      "title": "Reedsy Book Cover Templates",
+      "category": "Cover templates",
+      "cost": "Free",
+      "platform": "Reedsy (web)",
+      "steps": [
+        "Browse the free Reedsy cover template gallery by genre.",
+        "Select a template and open it in the Reedsy cover creator.",
+        "Replace placeholder text with your title, subtitle, and author name.",
+        "Swap in your own artwork or choose from the free image library.",
+        "Export the finished cover and upload it to KDP or your chosen printer."
+      ],
+      "official_link": "https://reedsy.com/design/book-cover-templates",
+      "id": "reedsy-cover-templates",
+      "notes": "Free genre-specific cover templates editable in the browser, no design software required."
+    },
+    {
+      "title": "KDP Copyright Page Templates",
+      "category": "Copyright pages",
+      "cost": "Free",
+      "platform": "Amazon KDP / Word",
+      "steps": [
+        "Open the KDP copyright page help article and copy the sample text block.",
+        "Paste the block onto a new page after your title page in Word.",
+        "Replace the placeholder ISBN, publication year, and author/publisher name with your own.",
+        "Keep the 'All rights reserved' line and optional printing/edition notes as needed.",
+        "Export the manuscript as PDF with the copyright page included."
+      ],
+      "official_link": "https://kdp.amazon.com/en/help/topic/G202013730",
+      "id": "kdp-copyright-page",
+      "notes": "Sample copyright page language from KDP help; replace placeholders with your own book details."
+    },
+    {
+      "title": "Lulu Print Book Templates",
+      "category": "Interior layouts",
+      "cost": "Free",
+      "platform": "Lulu",
+      "steps": [
+        "Visit the Lulu templates page and select your book size and binding type.",
+        "Download the Word or InDesign template file for your layout.",
+        "Format your manuscript inside the template with the preset margins and gutter.",
+        "Save/export the interior as a PDF and upload it to a new Lulu project.",
+        "Review the digital proof before ordering or publishing."
+      ],
+      "official_link": "https://www.lulu.com/templates",
+      "id": "lulu-templates",
+      "notes": "Free Lulu templates for paperback, hardcover, and coil-bound interiors."
+    },
+    {
+      "title": "IngramSpark Cover & Interior Templates",
+      "category": "Cover templates",
+      "cost": "Free",
+      "platform": "IngramSpark",
+      "steps": [
+        "Log in to a free IngramSpark account and open the template downloads page.",
+        "Enter your trim size, page count, and binding to generate template specs.",
+        "Download the PDF cover template and the interior template file.",
+        "Design your cover and interior within the provided bleed and safe-zone guides.",
+        "Upload print-ready PDFs when setting up your IngramSpark title."
+      ],
+      "official_link": "https://www.ingramspark.com/templates",
+      "id": "ingramspark-templates",
+      "notes": "Free IngramSpark templates sized to your exact book specifications."
+    },
+    {
+      "title": "Canva Free Book Templates",
+      "category": "Cover templates",
+      "cost": "Free (free tier)",
+      "platform": "Canva (web)",
+      "steps": [
+        "Open Canva and search for 'book cover' or 'KDP cover' templates.",
+        "Pick a free template marked with no crown icon (free-tier assets only).",
+        "Edit the title, author name, and imagery using Canva's editor.",
+        "Download as PDF Print for KDP cover upload, or PNG for ebook use.",
+        "Confirm final dimensions match your KDP cover calculator output before uploading."
+      ],
+      "official_link": "https://www.canva.com/templates/book-covers/",
+      "id": "canva-book-covers",
+      "notes": "Free tier templates only; verify dimensions against the KDP cover calculator to avoid rejection."
+    },
+    {
+      "title": "Notion Series Bible Template",
+      "category": "Series bibles",
+      "cost": "Free",
+      "platform": "Notion (free plan)",
+      "steps": [
+        "Create a free Notion account and open a new blank page.",
+        "Add databases for Characters, Locations, Timeline, and Plot threads.",
+        "Link related entries (e.g. a character to the scenes they appear in).",
+        "Use Notion's free template gallery or duplicate a community series bible template.",
+        "Duplicate the page for each book in your series and keep a master world-building hub."
+      ],
+      "official_link": "https://www.notion.so/",
+      "id": "notion-series-bible",
+      "notes": "Free Notion plan supports unlimited pages and databases for tracking series details."
+    },
+    {
+      "title": "Google Docs Manuscript Template",
+      "category": "Interior layouts",
+      "cost": "Free",
+      "platform": "Google Docs (web)",
+      "steps": [
+        "Open Google Docs and start a new document from the 'Manuscript' template in the gallery.",
+        "Set page size to 6 x 9 inches (File > Page setup) and margins to at least 0.75 in.",
+        "Apply Heading 1 to chapter titles so they export cleanly to Word or PDF.",
+        "Write or paste your manuscript, then download as .docx or PDF.",
+        "Import the file into Kindle Create or upload directly to KDP as needed."
+      ],
+      "official_link": "https://docs.google.com/",
+      "id": "google-docs-manuscript",
+      "notes": "Free word processor with basic manuscript formatting; set page size manually for print trim."
+    },
+    {
+      "title": "KDP eBook Manuscript Formatting Guide",
+      "category": "Interior layouts",
+      "cost": "Free",
+      "platform": "Amazon KDP",
+      "steps": [
+        "Open the KDP eBook manuscript formatting help article.",
+        "Follow the checklist: clean styles, page breaks, front matter, and image sizing.",
+        "Format your Word document using the recommended heading and paragraph styles.",
+        "Save as filtered HTML or .docx and preview with Kindle Previewer.",
+        "Upload the final file to your KDP ebook bookshelf."
+      ],
+      "official_link": "https://kdp.amazon.com/en/help/topic/G202013730",
+      "id": "kdp-ebook-formatting-guide",
+      "notes": "Official KDP formatting reference for reflowable Kindle ebook interiors."
+    },
+    {
+      "title": "Series Bible Spreadsheet Template",
+      "category": "Series bibles",
+      "cost": "Free",
+      "platform": "Google Sheets / Excel",
+      "steps": [
+        "Create a new spreadsheet with tabs for Characters, Locations, Timeline, and Series Arc.",
+        "List each character's name, role, appearance, and book of first appearance.",
+        "Record location names, settings, and which books feature them.",
+        "Enter a chronological timeline of series events across books.",
+        "Save a copy per series and update it as you publish new books."
+      ],
+      "official_link": "https://www.google.com/sheets/about/",
+      "id": "series-bible-spreadsheet",
+      "notes": "Simple spreadsheet-based series bible; works in Google Sheets or Excel offline."
+    }
+  ]
+}
